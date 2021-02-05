@@ -1,0 +1,88 @@
+body {
+    margin: 0 0 2em;
+    background-color: white;
+    font-family: sans-serif;
+    text-align: justify;
+    display: block;
+    background-color: orange;
+    margin: 5px;
+}
+header {
+    color: white;
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+}
+nav {
+    background-color: lightblue;
+    padding-left: 3%;
+    padding-bottom: 1%;
+    padding-top: 2px;
+}
+footer {
+    text-align: center;
+    background-color: lightcoral;
+    padding: 1.5%;
+}
+p.f {
+    border-top: lightblue 3px solid;
+    padding-top: 1%;
+
+}
+span.LMGSI {
+    font-weight: bold;
+}
+span.serv {
+    background-color: yellow;
+}
+span.lun {
+    text-decoration: line-through;
+}
+a {
+    border: black 1px solid;
+    padding: 2px;
+}
+a:hover {
+    background-color: yellow;
+}
+section.SJ {
+    background-color: white;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+img.SJ {
+    width: 200px;
+    height: 180px;
+    float: left;
+    margin-top: 1%;
+}
+p.SJ1 {
+    border-top: blue 25px solid;
+    color: blue;
+}
+p.SJ2{
+    border-bottom: blue 25px solid;
+    color: blue;
+}
+img.MC {
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-top: 1%;
+}
+section.MC {
+    background-color: lightblue;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+p.MC {
+    border-top: red 25px solid;
+    color: red;
+    border-bottom: red 25px solid;
+}
+ul {
+    background-color: wheat;
+    margin-left: 3%;
+}
+ul {
+    list-style-type: katakana;
+}
